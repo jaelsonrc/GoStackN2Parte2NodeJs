@@ -1,4 +1,5 @@
 class AppError {
+  // eslint-disable-next-line prettier/prettier
   public readonly message: string;
 
   public readonly statusCode: number;
